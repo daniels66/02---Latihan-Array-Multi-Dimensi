@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "'Consola','Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 15,
+    "editor.codeActionsOnSave": {
+    
+    
+        
+
+    
+    },
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
+
+    
